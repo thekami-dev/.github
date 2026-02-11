@@ -1,81 +1,72 @@
 <div align="center">
 
-<img align="right" src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="150" height="150" alt="TheKami Logo" />
+<img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/banner.png" width="100%" style="border-radius: 10px 10px 0 0;" alt="TheKami Banner" />
 
-#  TheKami 
-
-**Building things the right way.**  
-*We're a software company based in Bangladesh. We build open‑source tools, write code that matters, and believe in doing honest work.*
-
-<br clear="right"/>
-
+<div align="center" style="margin-top: -60px;">
+  <img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="120" height="120" style="border-radius: 50%; border: 5px solid #0d1117; background-color: #0d1117;" alt="TheKami Logo" />
+  <h1>TheKami</h1>
+  <p><b>Building things the right way.</b></p>
 </div>
 
+*We are a software company based in Bangladesh based on Open Source, Honest Work, and Community First.*
 
-##  About Us
-
-We started as a small GitHub organization in **January 2026**. Now we're building software that people actually use.
-
-We're not trying to change the world overnight. We're just trying to build good software, contribute to open source, and create a community of people who care about doing things **right**.
-
-**Our Focus:**
--  Open Source Development
--  Web & Mobile Applications
-- ️ Developer Tools & Libraries
--  Community Building
-
-
-##  Visit Us
-
-| Platform | Link |
-|--------|------|
-|  **Website** | [thekami.tech](https://www.thekami.tech) |
-|  **Blog** | [blog.thekami.tech](https://blog.thekami.tech) |
-|  **Medium** | [@thekamiofficial](https://medium.com/@thekamiofficial) |
+<p align="center">
+  <a href="https://www.linkedin.com/company/thekamiofficial"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/thekami-dev"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.thekami.tech"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
+  <a href="https://whatsapp.com/channel/0029Vb7cMKNCMY0PtB6RXQ2i"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 ---
 
-##  Contact
+</div>
 
-| Type | Email |
-|------|-------|
-|  **Primary (Secure)** | [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me) |
-|  **Alternative** | [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com) |
+## 🚀 About Us
 
+We started our journey in **January 2026**. We're not trying to change the world overnight; we're just trying to build good software that people actually use.
 
+**Our Core Focus:**
+* 💻 **Open Source Development**
+* 📱 **Web & Mobile Applications**
+* 🛠️ **Developer Tools & Libraries**
+* 🤝 **Community Building**
 
+---
 
+## 🛠️ Tech Arsenal
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,django,flutter,firebase,git,github,vscode,linux&perline=11" />
+</div>
 
+---
 
-##  Connect With Us
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/company/thekamiofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@thekamiofficial"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.instagram.com/thekami_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <br>
-  <a href="https://www.facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://t.me/thekamiofficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://whatsapp.com/channel/0029Vb7cMKNCMY0PtB6RXQ2i"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.thekami.tech"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
-  <a href="https://blog.thekami.tech"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekami-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekami-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+</div>
 
-<p align="center">
-  <b>Join our community:</b> <a href="https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL">WhatsApp Group</a>
-</p>
+---
 
+## 🌐 Visit & Contact
+
+| Platform | Link | Contact Type | Email |
+| :--- | :--- | :--- | :--- |
+| **Website** | [thekami.tech](https://www.thekami.tech) | **Primary** | [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me) |
+| **Blog** | [blog.thekami.tech](https://blog.thekami.tech) | **Alternative** | [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com) |
+| **Medium** | [@thekamiofficial](https://medium.com/@thekamiofficial) | **Community** | [Join WhatsApp Group](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL) |
+
+<br/>
 
 <div align="center">
 
-### 🇧🇩 Made in Bangladesh
+### 🇧🇩 Made with ❤️ in Bangladesh
 
-**TheKami** · Started January 2026 · Building with purpose
+**TheKami** · Est. Jan 2026 · *Building with purpose*
 
-*Open Source · Honest Work · Community First*
+<a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-Follow_Us-black?style=flat&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-Like_Page-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
-
-
