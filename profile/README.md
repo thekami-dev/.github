@@ -8,7 +8,6 @@
     </td>
     <td align="left">
       <font size="6"><b>TheKami</b></font><br />
-      <font size="3">we build cool things</font><br />
       <font size="2">Est January 2026</font>
     </td>
   </tr>
@@ -60,5 +59,5 @@ Contribution addresses for supporting our open-source research and development.
 <br />
 
 <div align="center">
-  <sub><b>TheKami · Made in Bangladesh</b></sub>
+  <sub><b>TheKami · Dhaka Bangladesh</b></sub>
 </div>
