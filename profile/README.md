@@ -1,19 +1,16 @@
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/banner.png" width="900"> |
-| :--- |
-| <div align="left">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="100" style="border-radius:50%"> <h1>TheKami</h1> <b>Building things the right way.</b></div> |
+| <img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="150"> | <h1>TheKami</h1> <p><b>Building things the right way.</b><br><i>Software Company based in Bangladesh</i></p> |
+| :--- | :--- |
 
-*We are a software company based in Bangladesh based on Open Source, Honest Work, and Community First.*
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/company/thekamiofficial"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/thekami-dev"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.thekami.tech"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
+  <a href="https://open.spotify.com/show/your-id-here"><img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://whatsapp.com/channel/0029Vb7cMKNCMY0PtB6RXQ2i"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
-
----
 
 </div>
 
@@ -43,22 +40,26 @@ We started our journey in **January 2026**. We're not trying to change the world
 
 ---
 
-## 🌐 Visit & Contact
+## 🌐 Connectivity & Contact
 
-| Platform | Link | Contact Type | Email |
-| :--- | :--- | :--- | :--- |
-| **Website** | [thekami.tech](https://www.thekami.tech) | **Primary** | [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me) |
-| **Blog** | [blog.thekami.tech](https://blog.thekami.tech) | **Alternative** | [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com) |
-| **Medium** | [@thekamiofficial](https://medium.com/@thekamiofficial) | **Community** | [Join WhatsApp Group](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL) |
+| Channel | Link / Address |
+| :--- | :--- |
+| 🌍 **Official Website** | [thekami.tech](https://www.thekami.tech) |
+| ✍️ **Tech Blog** | [blog.thekami.tech](https://blog.thekami.tech) |
+| 🎙️ **Spotify Podcast** | [Listen on Spotify](https://open.spotify.com/user/31ljdavcpr7aq6sn6b2sgtioyycm?si=iswBi80sSlaYbndrRQVpiQ) |
+| 📧 **Secure Email** | [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me) |
+| 📧 **Inquiries** | [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com) |
+| 💬 **Community** | [Join WhatsApp Group](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL) |
 
-<br/>
+---
 
 <div align="center">
 
 ### 🇧🇩 Made with ❤️ in Bangladesh
-**TheKami** · Est. Jan 2026 · *Building with purpose*
+**TheKami** · Est. Jan 2026 · *Honest Work · Community First*
 
-<a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-Follow_Us-black?style=flat&logo=x&logoColor=white" alt="X"></a>
-<a href="https://www.facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-Like_Page-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-Like-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/thekami_official"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
