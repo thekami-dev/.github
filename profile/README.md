@@ -1,57 +1,67 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1500x300/0d1117/FFFFFF?text=TheKami+%7C+Building+Things+the+Right+Way" width="100%" style="border-radius: 8px;" alt="TheKami Banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=250&section=header&text=TheKami&fontSize=80&animation=fadeIn&fontAlignY=35&desc=We%20build%20cool%20stuff.&descAlignY=60&descAlign=50" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1B5E20&height=250&section=header&text=TheKami&fontSize=80&animation=fadeIn&fontAlignY=35&desc=We%20build%20cool%20stuff.&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=250&section=header&text=TheKami&fontSize=80&animation=fadeIn&fontAlignY=35&desc=We%20build%20cool%20stuff.&descAlignY=60&descAlign=50" />
+</picture>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Established-January%202026-blue?style=for-the-badge&logo=github&logoColor=white&color=217111" alt="Established Date" />
-</h3>
+<br />
+
+[![Established](https://img.shields.io/badge/Est.-January_2026-00C853?style=for-the-badge&labelColor=1B5E20&color=00C853)](https://github.com/thekami-dev)
+[![Location](https://img.shields.io/badge/Dhaka-Bangladesh-00C853?style=for-the-badge&labelColor=1B5E20&color=00C853)](https://github.com/thekami-dev)
+
+
+---
 
 </div>
 
----
+## Who We Are
+TheKami is a Bangladesh-based software collective focused on transforming college projects into production-grade solutions. We bridge the gap between academic learning and real-world software execution.
 
-### Welcome to TheKami
-We are a dynamic group of innovators dedicated to transforming academic projects into impactful real-world applications. As a budding software company, we are focused on continuous growth, learning, and making a tangible difference in the tech landscape.
+Founded in early 2026, we are driven by:
+- **Quality Architecture** – Prioritizing clean and scalable code.
+- **Open Source Engagement** – Building and sharing tools with the community.
+- **Production Focus** – Taking prototypes to actual users.
+- **Growth Strategy** – Evolving from a budding startup to a solid tech entity.
 
----
+## Connect With Us
 
-### Our Journey
-Our primary goal is to bridge the gap between theoretical knowledge gained from college projects and practical industry needs. We strive to:
-* **Innovate & Implement:** Bring creative solutions from concept to deployment.
-* **Grow & Adapt:** Continuously learn and adapt to new technologies.
-* **Impact & Collaborate:** Create meaningful software and foster strong partnerships.
-
----
-
-### Connect With Us
-<p align="center">
-  <a href="https://www.thekami.tech"><img src="https://img.shields.io/badge/Visit%20Website-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/thekami-dev"><img src="https://img.shields.io/badge/Our%20GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/company/thekamiofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.instagram.com/thekami_official?igsh=MmZocWpudm04aWM1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://whatsapp.com/channel/0029Vb7cMKNCMY0PtB6RXQ2i"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://t.me/thekamiofficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://open.spotify.com/user/31ljdavcpr7aq6sn6b2sgtioyycm?si=iswBi80sSlaYbndrRQVpiQ"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+<p align="left">
+  <a href="https://www.thekami.tech"><img src="https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
+  <a href="https://blog.thekami.tech/"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/company/thekamiofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/thekami-dev"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://facebook.com/share/1DM3rxQnTn/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.instagram.com/thekami_official?igsh=MmZocWpudm04aWM1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://whatsapp.com/channel/0029Vb7cMKNCMY0PtB6RXQ2i"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://t.me/thekamiofficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-### Get In Touch
-* **Primary Contact:** [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me)
-* **General Inquiries:** [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com)
-* **Community:** [Join our WhatsApp Group](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL)
+### Contact Information
+- **Secure Email:** [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me)
+- **General Mail:** [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com)
+- **WhatsApp Group:** [Join our Community](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL)
 
-### Support Our Growth
-Your contributions help us grow and expand our initiatives. We accept cryptocurrency support:
+---
 
-**Bitcoin (BTC) Address**
-`1D9aoxzxTca8JcBkc6BUC85vEftbdbxNPe`
+## Support Our Mission
+Contributions help us maintain infrastructure and scale our open-source projects.
 
-**Ethereum (ETH / USDT / ERC20) Address**
-`0x915073521F6a7806d7e9D6D7ee9a94A89E8DabA3`
+**Bitcoin (BTC)**
+```
+1D9aoxzxTca8JcBkc6BUC85vEftbdbxNPe
+```
 
-<br/>
+**Ethereum (ETH / USDT / ERC20)**
+```
+0x915073521F6a7806d7e9D6D7ee9a94A89E8DabA3
+```
+
+
 
 <div align="center">
-  <sub><b>TheKami · Made in Bangladesh</b></sub>
+
+**TheKami** · Dhaka, Bangladesh  
 </div>
