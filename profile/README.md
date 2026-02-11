@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/banner.png" width="100%" style="border-radius: 10px 10px 0 0;" alt="TheKami Banner" />
-
-<div align="center" style="margin-top: -60px;">
-  <img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="120" height="120" style="border-radius: 50%; border: 5px solid #0d1117; background-color: #0d1117;" alt="TheKami Logo" />
-  <h1>TheKami</h1>
-  <p><b>Building things the right way.</b></p>
-</div>
+| <img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/banner.png" width="900"> |
+| :--- |
+| <div align="left">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/thekami-dev/.github/refs/heads/main/profile/TheKami.png" width="100" style="border-radius:50%"> <h1>TheKami</h1> <b>Building things the right way.</b></div> |
 
 *We are a software company based in Bangladesh based on Open Source, Honest Work, and Community First.*
 
@@ -22,7 +18,6 @@
 </div>
 
 ## 🚀 About Us
-
 We started our journey in **January 2026**. We're not trying to change the world overnight; we're just trying to build good software that people actually use.
 
 **Our Core Focus:**
@@ -34,7 +29,6 @@ We started our journey in **January 2026**. We're not trying to change the world
 ---
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,django,flutter,firebase,git,github,vscode,linux&perline=11" />
 </div>
@@ -42,7 +36,6 @@ We started our journey in **January 2026**. We're not trying to change the world
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thekami-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekami-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
@@ -63,7 +56,6 @@ We started our journey in **January 2026**. We're not trying to change the world
 <div align="center">
 
 ### 🇧🇩 Made with ❤️ in Bangladesh
-
 **TheKami** · Est. Jan 2026 · *Building with purpose*
 
 <a href="https://x.com/thekamiofficial"><img src="https://img.shields.io/badge/X-Follow_Us-black?style=flat&logo=x&logoColor=white" alt="X"></a>
