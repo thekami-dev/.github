@@ -39,26 +39,7 @@ Founded in early 2026, we are driven by:
   <a href="https://t.me/thekamiofficial"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-### Contact Information
-- **Secure Email:** [thekamiofficial@proton.me](mailto:thekamiofficial@proton.me)
-- **General Mail:** [thekamiofficial1@gmail.com](mailto:thekamiofficial1@gmail.com)
-- **WhatsApp Group:** [Join our Community](https://chat.whatsapp.com/DIYVbx778E40t6UvEALMyL)
-
 ---
-
-## Support Our Mission
-Contributions help us maintain infrastructure and scale our open-source projects.
-
-**Bitcoin (BTC)**
-```
-1D9aoxzxTca8JcBkc6BUC85vEftbdbxNPe
-```
-
-**Ethereum (ETH / USDT / ERC20)**
-```
-0x915073521F6a7806d7e9D6D7ee9a94A89E8DabA3
-```
-
 
 
 <div align="center">
