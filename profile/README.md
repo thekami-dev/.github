@@ -22,7 +22,7 @@ We believe in giving back to the community that taught us so much. That's why we
 
 <div align="center">
   <b>Try out our latest release:</b><br><br>
-  <a href="https://play.google.com/store/apps/details?id=com.thekami.buskhoja.app">
+  <a href="https://play.google.com/store/apps/dev?id=8580703469843686933">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
   </a>
 </div>
