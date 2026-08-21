@@ -9,8 +9,6 @@
 
 Welcome to the official GitHub organization of **[TheKami](https://www.thekami.tech)**! 
 
-Based in Dhaka, Bangladesh, we are a software company driven by a simple goal: building trust through transparent, ethical, and affordable technology. We strongly believe that knowledge grows faster when it is shared openly.
-
 
 
 
